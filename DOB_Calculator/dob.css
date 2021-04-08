@@ -1,0 +1,55 @@
+body{
+    background-color: navy;
+    color: oldlace;
+    font-family: 'Yatra One', cursive;
+}
+
+h1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+}
+
+h1:hover{
+   background: linear-gradient( blue, navy);
+   color: burlywood;
+}
+
+.date-input{
+    padding: 30px;
+}
+
+span{
+    color: rgb(185, 128, 23);
+}
+.col-div{
+    height: 100px;
+    margin-bottom: 2px;
+    background: oldlace;
+    color: navy;
+    border: 1px solid;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.col-div:hover{
+    background: navy;
+    color: oldlace;
+    border: ipx solid;
+}
+button{
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+.btn{
+    background: seashell;
+    color: navy;
+}
+.btn:hover{
+    background: rgb(53, 53, 180);
+    color: oldlace;
+}
